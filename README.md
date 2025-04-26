@@ -18,8 +18,8 @@
 </div> 
 
 ### Main Skills:
+![PHP Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
 ![Qdrant](https://img.shields.io/badge/-Qdrant-0D1117?style=for-the-badge&logo=qdrant&labelColor=0D1117)&nbsp;
