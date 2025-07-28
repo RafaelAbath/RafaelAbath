@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Abath;I'm+22+years+old;I+am+from+Natal,+RN;I+trained+IT+technician+at+IFRN;Passionate+about+AI+and+Software+Development!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Abath;I'm+23+years+old;I+am+from+Natal,+RN;I+trained+IT+technician+at+IFRN;Passionate+about+AI+and+Software+Development!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelAbath&show_icons=true&count_private=true&hide_border=true&title_color=6600FF&icon_color=6600FF&text_color=6600FF&bg_color=0d1117" alt="Rafael Abath github stats" /> 
