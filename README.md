@@ -9,9 +9,7 @@
 
 [![RafaelAbath github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelAbath&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafaelAbath&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 <div align="center">  
 <a href="https://www.instagram.com/rafael.slv274/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logor=white"</a>
