@@ -42,9 +42,6 @@
 ![Langchain](https://img.shields.io/badge/-Langchain-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-0D1117?style=for-the-badge&logo=qdrant&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafaelAbath}/count.svg" /></p> 
-<br></div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600FF&height=120&section=footer"/>
