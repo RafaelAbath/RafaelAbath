@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Abath;I'm+23+years+old;I+am+from+Natal,+RN;I+trained+IT+technician+at+IFRN;Passionate+about+AI+and+Software+Development!)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelAbath&show_icons=true&count_private=true&hide_border=true&title_color=6600FF&icon_color=6600FF&text_color=6600FF&bg_color=0d1117" alt="Rafael Abath github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAbath&layout=compact&hide_border=true&title_color=6600FF&text_color=6600FF&bg_color=0d1117" />
-</div>
+
 
 [![RafaelAbath github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelAbath&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RafaelAbath&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/rafael.slv274/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logor=white"</a>
