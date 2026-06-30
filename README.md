@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Abath;I'm+23+years+old;I+am+from+Natal,+RN;I+trained+IT+technician+at+IFRN;Passionate+about+AI+and+Software+Development!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Abath;I'm+24+years+old;I+am+from+Natal,+RN;I+trained+IT+technician+at+IFRN;Passionate+about+AI+and+Software+Development!)](https://git.io/typing-svg)
 
 
 
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/rafael.slv274/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%24E4405F?style=for-the-badge&logo=instagram&logor=white"</a>
+<a href="https://www.instagram.com/rafael.slv274/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logor=white"</a>
 </div> 
 
 ### Main Skills:
